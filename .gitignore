@@ -1,4 +1,9 @@
 rancheros.iso
 output
-dist/
+dist
 account.json
+atlas_cloud_token
+authorized_key
+gce_account
+net
+packer_cache
